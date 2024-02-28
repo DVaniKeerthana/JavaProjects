@@ -10,6 +10,8 @@ public class SampleF {
 		System.out.println("Enter table value");
 		int table=scan.nextInt();
 		scan.close();
+		 
+		scan.close();
 		
 		do
 		{
@@ -23,5 +25,6 @@ public class SampleF {
 		
 
 	}
+
 
 }

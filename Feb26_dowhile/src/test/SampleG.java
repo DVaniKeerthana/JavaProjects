@@ -2,11 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class SapmleG {
-
-		import java.util.Scanner;
-
-		public class SampleF {
+public class SampleG {
 
 			public static void main(String[] args) {
 				int a=1;
@@ -17,7 +13,7 @@ public class SapmleG {
 				
 				do
 				{
-					System.out.print(a+"x"+table+"="+a*table);
+					System.out.println(a+"x"+table+"="+a*table);
 					a=a+1;
 				}while(a<=10);
 				
